@@ -46,7 +46,7 @@ player02.printPlayer();
 // Fisher-Yates algorithm for randomly sorting an array
 // from: https://dev.to/codebubb/how-to-shuffle-an-array-in-javascript-2ikj
 // adapted to JS and reconfigured to return a new (non-mutated) array
-//testing if this works in committing
+//just gonna test again.
 
 function shuffleArray(targetArray) {
     let shuffled = Array.from(targetArray);
